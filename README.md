@@ -25,4 +25,4 @@ Download [blinkt](https://github.com/pimoroni/blinkt) python Library
 AdGuard [Python Client](https://pypi.org/project/adguardhome/)
 
 # TODO
-
+Implementation
