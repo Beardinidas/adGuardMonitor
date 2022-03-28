@@ -21,7 +21,7 @@ Lights switch off at: 22:00
 Lights Switch on at: 08:00 
 
 # Requirements
-Download [blinkt](https://github.com/pimoroni/blinkt) python Library
+Download [blinkt](https://github.com/pimoroni/blinkt) python Library  
 AdGuard [Python Client](https://pypi.org/project/adguardhome/)
 
 # TODO
